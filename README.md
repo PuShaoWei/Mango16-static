@@ -1,6 +1,6 @@
 # Mango16-static - Mango16 静态文件
 
-![image](http://static.mango16.cc/mango16LOGO.png)
+![image](http://static.mango16.cc/WechatIMG29.png)
 
 > 知行合一，学以致用
 
